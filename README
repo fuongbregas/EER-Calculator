@@ -1,3 +1,3 @@
-1) Read excel file and convert two column into 2 dataframe (then arrays)
+1) Read excel file and convert two columns into 2 dataframes (then arrays)
 2) There are 419 entries for each column values from 0 to 1, so we generate 419 continuous decimal numbers between 0 and 1 to represent x-axis
 3) Calculate the intersection between FAR and FRR curves, which will be EER. 
